@@ -1,11 +1,11 @@
-🚀 Semana OmniStack 10.0
+                                                        🚀 Semana OmniStack 10.0
 
-🚀 Tecnologias
+                                                              🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Node.js
-React
-React Native
+- Node.js
+- React
+- React Native
 
 
 💻 Aplicação Web:
