@@ -13,12 +13,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Uma aplicação REST que armazena os dados no MongoDB (Banco de dados não relacional)
 
 💻 How To Run
-Primeiro instale como dependências:
-yarn
+
+-Primeiro instale como dependências:
+-yarn
 
 💻 Scripts de inicialização:
-Inicie a aplicação em modo desenvolvimento!
-yarn start
+
+-Inicie a aplicação em modo desenvolvimento!
+-yarn start
 
 Breve atualização com aplicação Mobile. 
 
