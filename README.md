@@ -14,4 +14,4 @@ React Native
 
 Breve atualização com aplicação Mobile. 
 
-Feito com  Ana Siqueira ♥ by Rocketseat 👋
+Feito por  Ana Siqueira ♥ by Rocketseat 👋
