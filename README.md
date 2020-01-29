@@ -1,4 +1,5 @@
 <img src="./assets/thumb.png" align="center"></img>
+
 <h1 align="center">Semana Omnistack 10</h1>
 
 
