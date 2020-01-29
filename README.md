@@ -26,4 +26,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Breve atualização com aplicação Mobile. 
 
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
 Feito por  Ana Siqueira ♥ by Rocketseat 👋
