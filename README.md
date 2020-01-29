@@ -1,6 +1,6 @@
-                                                        🚀 Semana OmniStack 10.0
+                                                       ## h2🚀 Semana OmniStack 10.0
 
-                                                              🚀 Tecnologias
+                                                              # h1 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Node.js
