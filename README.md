@@ -1,7 +1,9 @@
     🚀 Semana OmniStack 10.0
 
                                                              🚀 Tecnologias
-</h3>
+<h1 align="center">
+    <img alt="Launchbase" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-launchbase.png" width="250px" />
+</h1>
                                                       
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
