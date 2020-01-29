@@ -1,6 +1,15 @@
-                                                       ##h2🚀 Semana OmniStack 10.0
+                                                       <h1 align="center">
+    <img alt="Launchbase" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-launchbase.png" width="250px" />
+</h1>
 
-                                                              #h1 🚀 Tecnologias
+<h3 align="center">
+  Desafios: Introdução à programação
+   
+                                                       🚀 Semana OmniStack 10.0
+
+                                                             🚀 Tecnologias
+</h3>
+                                                      
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Node.js
