@@ -1,11 +1,4 @@
-                                                       <h1 align="center">
-    <img alt="Launchbase" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-launchbase.png" width="250px" />
-</h1>
-
-<h3 align="center">
-  Desafios: Introdução à programação
-   
-                                                       🚀 Semana OmniStack 10.0
+    🚀 Semana OmniStack 10.0
 
                                                              🚀 Tecnologias
 </h3>
