@@ -1,4 +1,4 @@
-
+https://github.com/maykbrito/omnistack10/raw/master/assets/thumb.png
 <h1 align="center">Semana Omnistack 10</h1>
 
 
